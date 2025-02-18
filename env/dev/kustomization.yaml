@@ -7,6 +7,6 @@ resources:
 namespace: guestbook-simple-dev
 
 images:
-- name: ghcr.io/akuity/guestbook
-  newName: ghcr.io/akuity/guestbook
+- name: ghcr.io/nitishfy/guestbook
+  newName: ghcr.io/nitishfy/guestbook
   newTag: v0.0.1

@@ -6,11 +6,11 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/akuity/kargo-simple.git
+    value: https://github.com/nitishfy/kargo-simple.git
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/akuity/guestbook
+    value: ghcr.io/nitishfy/guestbook
   steps:
   # Clone the Git repository that contains the Kustomize configuration
   # to the ./src directory.
@@ -58,11 +58,11 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/akuity/kargo-simple.git
+    value: https://github.com/nitishfy/kargo-simple.git
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/akuity/guestbook
+    value: ghcr.io/nitishfy/guestbook
   steps:
   # Clone the Git repository that contains the Kustomize configuration
   # to the ./src directory.
